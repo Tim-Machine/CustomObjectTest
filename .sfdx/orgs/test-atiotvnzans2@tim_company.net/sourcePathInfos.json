@@ -43,79 +43,79 @@
     [
         "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/layouts/Error__c-Error Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/layouts/Error__c-Error Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2506,
             "modifiedTime": 1513695471000,
             "changeTime": 1513695471000,
-            "contentHash": "1fa8b06255459788c12409abc179366f4d18fc41"
+            "contentHash": "1fa8b06255459788c12409abc179366f4d18fc41",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4845,
             "modifiedTime": 1513695471000,
             "changeTime": 1513695471000,
-            "contentHash": "414d907e84aebaddc8d2a4c2c94f089c2962b072"
+            "contentHash": "414d907e84aebaddc8d2a4c2c94f089c2962b072",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5183,
             "modifiedTime": 1513695471000,
             "changeTime": 1513695471000,
-            "contentHash": "ef0bd32b1567987feceb40d4f94b9be4cbf188f7"
+            "contentHash": "ef0bd32b1567987feceb40d4f94b9be4cbf188f7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17874,
             "modifiedTime": 1513695471000,
             "changeTime": 1513695471000,
-            "contentHash": "14a85562ba982a0002d0ade6eb22e5739393f1ce"
+            "contentHash": "14a85562ba982a0002d0ade6eb22e5739393f1ce",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4845,
             "modifiedTime": 1513695471000,
             "changeTime": 1513695471000,
-            "contentHash": "414d907e84aebaddc8d2a4c2c94f089c2962b072"
+            "contentHash": "414d907e84aebaddc8d2a4c2c94f089c2962b072",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/objects/Error__c",
         {
-            "state": "u",
             "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/objects/Error__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1513695471000,
             "changeTime": 1513695471000,
-            "contentHash": "3c0c526d68b715e15f2930be46c64c363a82e32b"
+            "contentHash": "3c0c526d68b715e15f2930be46c64c363a82e32b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -134,14 +134,14 @@
     [
         "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default",
             "isDirectory": true,
-            "size": 170,
-            "modifiedTime": 1513695168000,
-            "changeTime": 1513695168000,
-            "contentHash": "c10276c48e7d0552370b8954d912d5be88b49dd7",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 238,
+            "modifiedTime": 1513696506000,
+            "changeTime": 1513696506000,
+            "contentHash": "f28a6b259da32a1a9353cb1d1fc1a89425931e7a"
         }
     ],
     [
@@ -186,66 +186,105 @@
     [
         "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/objects/Error__c/fields/Class_Name__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/objects/Error__c/fields/Class_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1513695471000,
             "changeTime": 1513695471000,
-            "contentHash": "6eff97dac271f18c22a7b02b1d706be95402fa05"
+            "contentHash": "6eff97dac271f18c22a7b02b1d706be95402fa05",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/objects/Error__c/fields/Message__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/objects/Error__c/fields/Message__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 357,
             "modifiedTime": 1513695471000,
             "changeTime": 1513695471000,
-            "contentHash": "8540a422813f363b5726f95862f7eef79d27c929"
+            "contentHash": "8540a422813f363b5726f95862f7eef79d27c929",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/objects/Error__c/fields/Method_Name__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/objects/Error__c/fields/Method_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 368,
             "modifiedTime": 1513695471000,
             "changeTime": 1513695471000,
-            "contentHash": "71321213d6d57ccd52111d29181fab8e073e9b8c"
+            "contentHash": "71321213d6d57ccd52111d29181fab8e073e9b8c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/objects/Error__c/fields/Stack_Trace__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/objects/Error__c/fields/Stack_Trace__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 400,
             "modifiedTime": 1513695471000,
             "changeTime": 1513695471000,
-            "contentHash": "ef9bebab90393ba9e60ec8c0083462ba3c5c1a9d"
+            "contentHash": "ef9bebab90393ba9e60ec8c0083462ba3c5c1a9d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/objects/Error__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/objects/Error__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1513695471000,
             "changeTime": 1513695471000,
-            "contentHash": "e9c21a3eba0bc105f798a1818f3fac25281eb2b6"
+            "contentHash": "e9c21a3eba0bc105f798a1818f3fac25281eb2b6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/permissionsets/Error_Admin.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/permissionsets/Error_Admin.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 539,
+            "modifiedTime": 1513696506000,
+            "changeTime": 1513696506000,
+            "contentHash": "31b7fa7bc6d1ef0630f1a7c9db16eca094209932"
+        }
+    ],
+    [
+        "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/permissionsets/Error_View_all.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/permissionsets/Error_View_all.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 546,
+            "modifiedTime": 1513696506000,
+            "changeTime": 1513696506000,
+            "contentHash": "f197f90979a4ee0b34d6f23c526c987d5ed3e2b6"
+        }
+    ],
+    [
+        "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tim/Documents/projects/CustomObjectTest/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1513696506000,
+            "changeTime": 1513696506000,
+            "contentHash": "934a911c7f0215af2023a6f1926646f6e811a67c"
         }
     ]
 ]
