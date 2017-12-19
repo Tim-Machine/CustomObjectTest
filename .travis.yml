@@ -1,6 +1,7 @@
 sudo: true
 dist: trusty 
 cache: false
+group: deprecated-2017Q4
 
 env:
 - URL=https://developer.salesforce.com/media/salesforce-cli/sfdx-linux-amd64.tar.xz
