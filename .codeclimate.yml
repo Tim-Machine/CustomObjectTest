@@ -1,0 +1,3 @@
+plugins:
+ apexmetrics:
+    enabled: true
